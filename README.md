@@ -22,12 +22,12 @@ python3 anime-link-scaper.py ANIME-URl
 ### demo -
 ```
  python3 anime-link-scaper.py https://www1.gogoanime.ai/category/durarara-dub
- ![89b0769a1d2c82722c676f938737dce9.png](_resources/713ae4b5a7394f809b8af02445d2283a.png)
+
 ```
+ ![89b0769a1d2c82722c676f938737dce9.png](_resources/713ae4b5a7394f809b8af02445d2283a.png)
 
 ## Entire anime link scrape
-https://studio.youtube.com/video/U0iSgUVIKp0/edit
-
+https://www.youtube.com/watch?v=U0iSgUVIKp0
 ```
 chmod +x run.sh
 ./run.sh
@@ -36,5 +36,6 @@ chmod +x run.sh
 ### link store at anime_link folder
 
 ## About Us
-website - pwn0x80@github.io
+website - pwn0x80.github.io
+
 instagram -  https://www.instagram.com/pwn0x80/
