@@ -38,7 +38,7 @@ except OSError:
 # url
 URL_patten_ep = "https://www1.gogoanime.ai{}"
 url_patten_id = "https://www1.gogoanime.ai/category/{}"
-url_patten_sep = "https://ajax.gogo-load.com/ajax/load-list-episode?ep_start=0&ep_end=12&id={}"
+url_patten_sep = "https://ajax.gogo-load.com/ajax/load-list-episode?ep_start=0&ep_end=1900&id={}"
 text_file = "anime_link/{}.txt"
 
 # id finder
